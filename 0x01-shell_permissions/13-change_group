@@ -1,0 +1,3 @@
+#!/bin/bach
+chgrp school hello
+
