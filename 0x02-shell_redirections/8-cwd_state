@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'ls -la: lists all the files in the directory, including the hidden ones that starts with . or .. , in long format' > ls_cwd_content
+ls -la > ls_cwd_content
